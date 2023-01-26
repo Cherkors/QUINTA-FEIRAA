@@ -1,2 +1,3 @@
 1- o que é clone?
-
+ 
+2 - o que é commit?
