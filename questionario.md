@@ -3,3 +3,5 @@
 2 - o que é commit?
 
 3- o que é um repositório?
+
+4- o que é merge ? 
