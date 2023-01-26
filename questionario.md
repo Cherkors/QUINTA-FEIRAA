@@ -1,3 +1,5 @@
 1- o que é clone?
  
 2 - o que é commit?
+
+3- o que é um repositório?
