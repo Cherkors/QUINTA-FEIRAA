@@ -2,6 +2,7 @@
  É A cópia de uma repositório remoto para a maquina local
  
 2 - o que é commit?
+EMPACOTAMENTO DE ALTERAÇÕES.
 
 3- o que é um repositório?
 
