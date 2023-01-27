@@ -5,6 +5,7 @@
 EMPACOTAMENTO DE ALTERAÇÕES.
 
 3- o que é um repositório?
+É A PASTA ONDE SÃO COLOCADOS OS ARQUIVOS DO PROJETO
 
 4- o que é merge ? 
 
