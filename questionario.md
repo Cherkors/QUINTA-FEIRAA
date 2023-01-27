@@ -1,4 +1,5 @@
 1- o que é clone?
+ É A cópia de uma repositório remoto para a maquina local
  
 2 - o que é commit?
 
